@@ -1,0 +1,4062 @@
+[
+    {
+        "id": "CS 108",
+        "title": "Applied Computer Concept",
+        "credits": 3,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Computer skills course which assumes no prior experience with computers. Introduces computer concepts and word processing; spreadsheets and database software; and examines societal issues. Graduation credit may be earned for CS 108 or CMIS 108; but not for both.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CS 111",
+        "title": "Concepts of Computer Science",
+        "credits": 3,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Broad view of computer science: hardware; operating systems; software design and development; algorithms; networks; and applications.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CS 140",
+        "title": "Introduction to Computing I",
+        "credits": 3,
+        "prerequisitesRaw": "MATH 120 Minimum Grade of C OR MATH 120E Minimum Grade of C OR MATH 120I Minimum Grade of C OR MATH 120E Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Programming course that assumes basic computer literacy. Introduces a high-level programming language and basic problem solving. IAI Course CS 911.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "MATH 120",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 120E",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 120I",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 120E",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CS 145",
+        "title": "Introduction to Computing for Engineers",
+        "credits": 3,
+        "prerequisitesRaw": "MATH 150 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Introduces C++ programming and basic problem solving. Focuses on computer applications in engineering, science and numeric methods. Prerequisite: Basic computer literacy.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "MATH 150",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CS 150",
+        "title": "Introduction to Computing II",
+        "credits": 3,
+        "prerequisitesRaw": "CS 140 Minimum Grade of C OR CS 145 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Algorithmic problem solving with a modern programming language. Language syntax; basic design methods; algorithms; and abstraction. IAI Course CS 912.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "CS 140",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "CS 145",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CS 198",
+        "title": "Computer Science Work Experience I",
+        "credits": 0,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Supervised work experience with agency employing computer scientists or information specialists. For students with part time cooperative jobs. Limited to students enrolled in more than 6 hours.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CS 199",
+        "title": "CS Cooperative Ed Exp I",
+        "credits": 0,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Supervised work experience with agency employing computer scientists or information specialists. First work period of 5-year academic/work experience program.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CS 234",
+        "title": "Database and Web System Development",
+        "credits": 3,
+        "prerequisitesRaw": "CS 111 Minimum Grade of C AND CS 150 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "An introduction to multi-tier software systems and database programming and their application to web-based information storage and retrieval systems.",
+        "prerequisitesAND": [
+            {
+                "id": "CS 111",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "CS 150",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CS 240",
+        "title": "Introduction to Computing III",
+        "credits": 3,
+        "prerequisitesRaw": "CS 150 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Basic software engineering concepts, elementary data structures and algorithms, fundamentals of object-oriented programming.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "CS 150",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CS 286",
+        "title": "Introduction to Computer Organization and Architecture",
+        "credits": 3,
+        "prerequisitesRaw": "CS 150 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Processor, memory, I/O structure of computer systems, data representations, instruction set architecture of typical processor as hardware/software interface, processor implementation, performance evaluation methods.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "CS 150",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CS 298",
+        "title": "Computer Science Work Experience II",
+        "credits": 0,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Supervised work experience with agency employing computer scientists or information specialists. For students with part-time cooperative jobs. Limited to students enrolled in more than 6 credit hours.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CS 299",
+        "title": "Computer Science Cooperative Education Experience II",
+        "credits": 0,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Supervised work experience with agency employing computer scientists or information specialists. Second work period of 5-year academic/work experience program.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CS 314",
+        "title": "Operating Systems",
+        "credits": 3,
+        "prerequisitesRaw": "CS 286 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Processes, threads, and synchronization; I/O and memory management at the hardware and OS levels; file systems; and implementation of basic OS abstractions, concurrent programming.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "CS 286",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CS 321",
+        "title": "Human-Computer Interaction Design",
+        "credits": 3,
+        "prerequisitesRaw": "CS 234 Minimum Grade of C AND (STAT 244 Minimum Grade of C OR STAT 380 Minimum Grade of C)",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Design of interactions between people and computers. Interface design, conceptual models, design methods, software evaluation and ethical concerns. Software design project.",
+        "prerequisitesAND": [
+            {
+                "id": "CS 234",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "prerequisitesOR": [
+            {
+                "id": "STAT 244",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "STAT 380",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CS 325",
+        "title": "Software Engineering",
+        "credits": 3,
+        "prerequisitesRaw": "CS 150 Minimum Grade of C AND CS 234 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Introduction to the concepts and techniques required to develop complex software systems and manage software projects. Emphasis on object-oriented methodologies and modeling via UML.",
+        "prerequisitesAND": [
+            {
+                "id": "CS 150",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "CS 234",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CS 330",
+        "title": "Programming Languages",
+        "credits": 3,
+        "prerequisitesRaw": "CS 286 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Design, appropriateness and linguistics issues associated with different programming languages and programming paradigms. Covers syntax and semantics of languages, including BNF Notation.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "CS 286",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CS 340",
+        "title": "Algorithms and Data Structures",
+        "credits": 3,
+        "prerequisitesRaw": "CS 150 Minimum Grade of C AND MATH 224 Minimum Grade of C AND MATH 150 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Considers appropriate choice of data structures, comparisons of algorithms, recursive algorithms, complexity, and introduction to parallel algorithms.",
+        "prerequisitesAND": [
+            {
+                "id": "CS 150",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 224",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 150",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CS 360",
+        "title": "Ethical and Social Implications of Computing",
+        "credits": 3,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "An introduction to the social, ethical, legal, and professional contexts in which software systems are developed and utilized.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CS 382",
+        "title": "Game Design, Development, and Technology",
+        "credits": 3,
+        "prerequisitesRaw": "MATH 152 Minimum Grade of C AND CS 286 Minimum Grade of C AND CS 321 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Introduction to the entire process of game development, including history, social impact, design, programming, software engineering, math, physics, graphics, animation, audio, AI, and hardware.",
+        "prerequisitesAND": [
+            {
+                "id": "MATH 152",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "CS 286",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "CS 321",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CS 390",
+        "title": "Topics in Computer Science",
+        "credits": 3,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Selected topics in computer science. May be repeated to a maximum of 6 hours for different topics.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CS 398",
+        "title": "Computer Science Work Experience III",
+        "credits": 0,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Supervised work experience with agency employing computer scientists or information specialists. For students with part-time cooperative jobs. Limited to students enrolled in more than 6 credit hours.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CS 399",
+        "title": "Computer Science Cooperative Education Experience III",
+        "credits": 0,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Supervised work experience with agency employing computer scientists or information specialists. Third work period of 5-year academic/work experience program.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CS 423",
+        "title": "Compiler Construction",
+        "credits": 3,
+        "prerequisitesRaw": "CS 330 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Translation of programming languages. Emphasis on techniques used in construction of compilers, including lexical analysis, syntactical analysis, type checking, and code generation.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "CS 330",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CS 425",
+        "title": "Senior Project: Software Design",
+        "credits": 3,
+        "prerequisitesRaw": "CS 340 Minimum Grade of C AND CS 314 Minimum Grade of C AND CS 325 Minimum Grade of C AND CS 360 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "First part of a two-semester sequence in which teams complete the design and planning stages of a software development project. Selected topics in software development, group dynamics, and project management. Not for Graduate credit.",
+        "prerequisitesAND": [
+            {
+                "id": "CS 340",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "CS 314",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "CS 325",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "CS 360",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CS 434",
+        "title": "Database Management Systems",
+        "credits": 3,
+        "prerequisitesRaw": "CS 150 Minimum Grade of C AND CS 234 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Database management system concepts, models, languages. Entity/relationship, relational and object-oriented data models; relational database design and implementation including SQL; and object databases.",
+        "prerequisitesAND": [
+            {
+                "id": "CS 150",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "CS 234",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CS 438",
+        "title": "Artificial Intelligence",
+        "credits": 3,
+        "prerequisitesRaw": "CS 340 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Principles and programming techniques of artificial intelligence. Intelligent agents, heuristic programming, knowledge representation, expert systems, and machine learning.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "CS 340",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CS 447",
+        "title": "Networks and Data Communications",
+        "credits": 3,
+        "prerequisitesRaw": "CS 340 Minimum Grade of C AND (CS 314 Minimum Grade of C OR CS 414 Minimum Grade of C)",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Concepts of networks and data communications. Networking protocols and architecture; data encoding and transmission; network management; and distributed applications.",
+        "prerequisitesAND": [
+            {
+                "id": "CS 340",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "prerequisitesOR": [
+            {
+                "id": "CS 314",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "CS 414",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CS 454",
+        "title": "Theory of Computation",
+        "credits": 3,
+        "prerequisitesRaw": "CS 330 and MATH 224 with C or better; or Graduate Standing",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Theoretical foundations of computer science, including a theory of automata: pushdown automata, Turing machines; and formal languages.",
+        "prerequisitesAND": [
+            {
+                "id": "CS 330",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 224",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CS 456",
+        "title": "Design and Analysis of Algorithms",
+        "credits": 3,
+        "prerequisitesRaw": "CS 340 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Algorithmic design strategies; Runtime analysis; Greedy; Divide-and-Conquer; Dynamic Programming; Network Flow; Algorithmic Intractability; P vs. NP vs. NP-Complete; Reduction Theory",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "CS 340",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CS 463",
+        "title": "Cryptography",
+        "credits": 3,
+        "prerequisitesRaw": "MATH 224 Minimum Grade of C AND CS 447 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Introduction to cryptology, cryptographic primitives, authentication, authorization, and access control, security models, cryptographic protocols, key management and establishment, applications.",
+        "prerequisitesAND": [
+            {
+                "id": "MATH 224",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "CS 447",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CS 476",
+        "title": "Bioinformatics Algorithms",
+        "credits": 3,
+        "prerequisitesRaw": "CS 340 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "This course concerns algorithms for bioinformatics problems arising from comparative genomics. Fundamental topics are pairwise sequence alignment, phylogenetic tree construction, and multiple sequence alignment.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "CS 340",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CS 482",
+        "title": "Computer Graphics",
+        "credits": 3,
+        "prerequisitesRaw": "CS 286 Minimum Grade of C AND MATH 152 Minimum Grade of C AND CS 150 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Introduction to2D and 3D graphics, graphics hardware, scan conversion, anti-aliasing, hidden components, transformations, projections, ray tracing, curve and surface modeling, and animation.",
+        "prerequisitesAND": [
+            {
+                "id": "CS 286",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 152",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "CS 150",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CS 490",
+        "title": "Topics in Computer Science",
+        "credits": 3,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Selected topics in computer science. May be repeated to a maximum of 6 hours for different topics. Requires consent of instructor.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CS 495",
+        "title": "Independent Study",
+        "credits": 3,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Reading and research in specific areas of computer science. May be repeated for a maximum of 6 hours. Requires consent of department chair or program director.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CS 499",
+        "title": "Senior Project: Software Implementation",
+        "credits": 3,
+        "prerequisitesRaw": "CS 425 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Second part of a two-semester sequence in which teams implement, test, and deploy software development project that was planned and designed in CS 425. Includes a formal presentation to the computer science faculty.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "CS 425",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ENG 100G",
+        "title": "Writing Lab-Grammar",
+        "credits": 1,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Computerized self-instructional materials for improving writing. GRM is prerequisite to 100R (Rhetoric). Not for English majors or minors.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ENG 100R",
+        "title": "Writing Lab-Rhetoric",
+        "credits": 1,
+        "prerequisitesRaw": "ENG 100G",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Computerized self-instructional materials for improving writing. Not for English majors or minors.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "ENG 100G",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ENG 101",
+        "title": "English Composition I",
+        "credits": 3,
+        "prerequisitesRaw": "Evidence-based READ/WRIT Score (S11R) Minimum score of 530 OR ((ACT English (A01) Minimum score of 20 or WRIT/LANGUAGE Test Score (S14) Minimum Score of 27 or ACCUPLACER Writing (UA02) Minimum score of 250 or AD 090 Minimum grade of C) AND (ACT Reading (A03) Minimum score of 18 or Reading Test Score (S13) Minimum score of 24 or ACCUPLACER Reading (UA01) Minimum score of 237 or AD 082 Minimum grade of C or AD 116 Minimum grade of C))",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Instruction and practice in analyzing and composing the academic expository essay. IAI Course C1 900.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ENG 101E",
+        "title": "English Composition I",
+        "credits": 3,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Instruction and practice in analyzing and composing the academic expository essay.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ENG 101N",
+        "title": "English Composition: Non-Native Speakers",
+        "credits": 3,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Instruction and practice in expository writing, including the paragraph and short essay. Course is a general education skills course. Requires consent of advisor.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ENG 102",
+        "title": "English Composition II",
+        "credits": 3,
+        "prerequisitesRaw": "ENG 101 Minimum Grade of C OR ENG 101N Minimum Grade of C OR ENG 101E Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Builds upon the analytical and writing skills developed in 101 with emphasis on argumentation and critical synthesis of information based on research. IAI Course C1 901R.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "ENG 101",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "ENG 101N",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "ENG 101E",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ENG 102N",
+        "title": "English Composition: Non-Native Speakers",
+        "credits": 3,
+        "prerequisitesRaw": "ENG 101 Minimum Grade of C OR ENG 101N Minimum Grade of C OR ENG 101E Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Instruction and practice in expository writing, including the essay and research paper. Course is a general education skills course. Requires consent of advisor.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "ENG 101",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "ENG 101N",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "ENG 101E",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ACS 103",
+        "title": "Interpersonal Communication Skills",
+        "credits": 3,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Principles and practices of oral communication emphasizing message formation and delivery; listening; perception; awareness of verbal and nonverbal codes; and managing conflict.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "RA 101",
+        "title": "Reasoning and Argumentation",
+        "credits": 3,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Students will learn to analyze, critically evaluate, and construct arguments. Topics include organizing information, detecting fallacies, analyzing meaning, and using effective methods of argumentation. IAI Course H4 906.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 112A",
+        "title": "Math for Elementary Teaching: Number Sense & Algebra",
+        "credits": 3,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "These courses are designed to meet state certification standards for elementary teachers. Number sense and algebra.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 112B",
+        "title": "Math for Elementary Teaching: Probability, Statistics & Geometry",
+        "credits": 3,
+        "prerequisitesRaw": "MATH 112A Minimum Grade of C (concurrency allowed)",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "These courses are designed to meet state certification standards for elementary teachers. Probability, statistics, and geometry.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "MATH 112A",
+                "Grade": "C",
+                "concurrency": true
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 112C",
+        "title": "Mathematics for Elementary Teaching",
+        "credits": 3,
+        "prerequisitesRaw": "ALEKS PPL - Math Plcmnt 46 OR (MATH 112A Minimum Grade of C AND MATH 112B Minimum Grade of C)",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "One of three courses designed to meet state certification standards for elementary teachers. College algebra skills essential for elementary teachers.",
+        "prerequisitesAND": [
+            {
+                "id": "MATH 112B",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "prerequisitesOR": [
+            {
+                "id": "MATH 112A",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 120",
+        "title": "College Algebra",
+        "credits": 3,
+        "prerequisitesRaw": "ALEKS PPL - Math Plcmnt 46",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Cartesian coordinates; graphing; lines; parabolas; functions; inverses; roots of polynomials; rational functions and inequalities; linear systems; matrices; and determinants.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 120E",
+        "title": "Enhanced College Algebra",
+        "credits": 3,
+        "prerequisitesRaw": "ALEKS PPL - Math Plcmnt 30 OR AD 070 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Cartesian coordinates, graphing, lines, parabolas, functions, inverses, roots of polynomials, rational functions and inequalities, linear systems, matrices, and determinants",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "AD 070",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 120I",
+        "title": "College Algebra",
+        "credits": 3,
+        "prerequisitesRaw": "ALEKS Placement Score < 30 (UL01 of 30 or less).",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Cartesian coordinates; graphing; lines; parabolas; functions; inverses; roots of polynomials; rational functions and inequalities; linear systems; matrices; and determinants.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 125",
+        "title": "Precalculus Mathematics with Trigonometry",
+        "credits": 3,
+        "prerequisitesRaw": "ALEKS PPL - Math Plcmnt 61 OR MATH 120 Minimum Grade of C OR MATH 120E Minimum Grade of C OR MATH 120I Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Exponential and logarithmic functions; trigonometric functions and their applications; inverse trigonometric functions; trigonometric identities and equations; laws of sines and cosines; binomial theorem; and introduction to partial fractions.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "MATH 120",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 120E",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 120I",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 145",
+        "title": "Calculus for the Life Sciences",
+        "credits": 5,
+        "prerequisitesRaw": "ALEKS PPL - Math Plcmnt 76 OR MATH 125 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Fundamental concepts of calculus with applications focused on the life sciences: limits, continuity, derivatives, integrals, fundamental theorem of calculus, partial derivatives, differential equations, and applications. Course not a prerequisite for Math 152.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "MATH 125",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 150",
+        "title": "Calculus I",
+        "credits": 5,
+        "prerequisitesRaw": "ALEKS PPL - Math Plcmnt 76 OR MATH 125 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Fundamental concepts of calculus: limits, continuity, and derivatives. Mean Value Theorem of Calculus, integration techniques, and applications. IAI Course M1 900-1.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "MATH 125",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 152",
+        "title": "Calculus II",
+        "credits": 5,
+        "prerequisitesRaw": "MATH 150 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Applications of integration; techniques of integration; improper integrals; polar coordinates; infinite sequences and series; and Taylor's theorem. IAI Course M1 900-2.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "MATH 150",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 165",
+        "title": "Introduction to Programming and Problem Solving",
+        "credits": 3,
+        "prerequisitesRaw": "MATH 150 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Introduction to real-world problem solving using a modern computational environment MATLAB. In the context of engineering applications, basic procedural programming concepts will be covered.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "MATH 150",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 223",
+        "title": "Logic & Mathematical Reasoning",
+        "credits": 4,
+        "prerequisitesRaw": "MATH 150 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Concepts and techniques essential to advanced mathematics; logic, methods of proof, sets, relations, induction, functions, cardinality, combinatorics, and graph theory.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "MATH 150",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 224",
+        "title": "Discrete Mathematics",
+        "credits": 3,
+        "prerequisitesRaw": "CS 140 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Mathematical concepts and techniques essential to computer science: logic; sets; algorithms; methods of proof; induction and recursion; simple counting techniques; and graph theory. Does not count toward a major in mathematics.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "CS 140",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 250",
+        "title": "Calculus III",
+        "credits": 4,
+        "prerequisitesRaw": "MATH 152 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Vectors; dot and cross products; lines and planes in space; and vector-valued functions. Partial derivatives, gradient, extrema, and multiple integrals. Theorems of Green, Stokes, and Gauss. IAI Course M1 900-3.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "MATH 152",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 300",
+        "title": "History of Mathematics from Antiquity to Descartes",
+        "credits": 3,
+        "prerequisitesRaw": "MATH 125 Minimum Grade of C OR MATH 150 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "The development of mathematics from antiquity through the development of analytic geometry. Does not count toward a degree in mathematics.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "MATH 125",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 150",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 305",
+        "title": "Differential Equations I",
+        "credits": 3,
+        "prerequisitesRaw": "MATH 250 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "First order ordinary differential equations, linear ordinary, differential equations of higher order, systems of first order linear equations, and applications.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "MATH 250",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 310",
+        "title": "Teaching of Middle School Mathematics",
+        "credits": 3,
+        "prerequisitesRaw": "MATH 112A Minimum Grade of C AND MATH 112B Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Constructing instructional objectives; formulating, utilizing and evaluating strategies for teaching mathematical concepts and skills; diagnosis and remediation of students' learning difficulties. Does not count towards a degree in mathematics.",
+        "prerequisitesAND": [
+            {
+                "id": "MATH 112A",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 112B",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 311",
+        "title": "The Teaching of Secondary Mathematics 1",
+        "credits": 3,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "The first of two courses focusing on the content and pedagogy applicable to secondary mathematics teacher licensure. Does not count toward non-teaching degree or minor in mathematics.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 315",
+        "title": "Number Theory",
+        "credits": 3,
+        "prerequisitesRaw": "MATH 125 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Divisibility, primes, numerical functions, congruences, introduction to coding theory, continued fractions, and rational approximations. Does not count toward a degree in mathematics.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "MATH 125",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 320",
+        "title": "Introduction to Algebraic Structures",
+        "credits": 3,
+        "prerequisitesRaw": "MATH 223 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Introduction to group theory. Groups; subgroups; cyclic groups; cosets and Lagrange's theorem; homomorphisms; and factor groups.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "MATH 223",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 321",
+        "title": "Linear Algebra I",
+        "credits": 3,
+        "prerequisitesRaw": "MATH 152 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Systems of linear equations matrices and determinants; vector spaces and linear transformations. Eigenvalues, eigenvectors, and diagonalization of a symmetric matrix.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "MATH 152",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 340",
+        "title": "Theory of Interest",
+        "credits": 3,
+        "prerequisitesRaw": "MATH 152 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Measures of interest; annuities; yield rates; amortization schedules and sinking funds; economic rationale for interest; and stochastic approaches to interest.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "MATH 152",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 350",
+        "title": "Introduction to Analysis",
+        "credits": 4,
+        "prerequisitesRaw": "MATH 223 Minimum Grade of C AND MATH 250 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Real numbers. Topology on the real line. Sequences of real numbers; limits of functions, continuity of functions; differentiation.",
+        "prerequisitesAND": [
+            {
+                "id": "MATH 223",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 250",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 355",
+        "title": "Engineering Mathematics",
+        "credits": 5,
+        "prerequisitesRaw": "MATH 305 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Linear algebra: Gaussian elimination, linear independence, vector spaces, eigenvalues; discrete mathematics including: combinations and graph theory; and complex analysis (differentiation, integration, and series).",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "MATH 305",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 400",
+        "title": "Development of Modern Mathematics",
+        "credits": 3,
+        "prerequisitesRaw": "MATH 152 Minimum Grade of C AND MATH 223 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "The development of mathematics since the discovery of calculus.",
+        "prerequisitesAND": [
+            {
+                "id": "MATH 152",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 223",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 411",
+        "title": "The Teaching of Secondary Mathematics 2",
+        "credits": 3,
+        "prerequisitesRaw": "MATH 311 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "The second of two courses focusing on the content and pedagogy applicable to secondary mathematics teacher licensure. Does not count toward non-teaching degree or minor in mathematics.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "MATH 311",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 416A",
+        "title": "Mathematics Topics for Teachers: Analysis",
+        "credits": 1,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Analysis. May be repeated to a maximum of 3 hours so long as no topic is repeated. May not count toward a concentration or minor in mathematics. Requires consent of instructor.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 416B",
+        "title": "Mathematics Topics for Teachers: Algebra",
+        "credits": 1,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Algebra. May be repeated to a maximum of 3 hours so long as no topic is repeated. May not count toward a concentration or minor in mathematics. Requires consent of instructor.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 416C",
+        "title": "Mathematics Topics for Teachers: Number Theory",
+        "credits": 1,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Number theory. May be repeated to a maximum of 3 hours so long as no topic is repeated. May not count toward a concentration or minor in mathematics. Requires consent of instructor.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 416D",
+        "title": "Mathematics Topics for Teachers: Probability & Statistics",
+        "credits": 1,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Probability and statistics. May be repeated to a maximum of 3 hours so long as no topic is repeated. May not count toward a concentration or minor in mathematics. Requires consent of instructor.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 416E",
+        "title": "Mathematics Topics for Teachers: Mathematical Concepts",
+        "credits": 1,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Mathematical concepts. May be repeated to a maximum of 3 hours so long as no topic is repeated. May not count toward a concentration or minor in mathematics. Requires consent of instructor.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 416F",
+        "title": "Mathematics Topics for Teachers: Geometry",
+        "credits": 1,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Geometry. May be repeated to a maximum of 3 hours so long as no topic is repeated. May not count toward a concentration or minor in mathematics. Requires consent of instructor.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 416G",
+        "title": "Mathematics Topics for Teachers: History of Mathematics",
+        "credits": 1,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "History of Mathematics. May be repeated to a maximum of 3 hours so long as no topic is repeated. May not count toward a concentration or minor in mathematics. Requires consent of instructor.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 416H",
+        "title": "Mathematics Topics for Teachers: Applied Mathematics",
+        "credits": 1,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Applied mathematics. May be repeated to a maximum of 3 hours so long as no topic is repeated. May not count toward a concentration or minor in mathematics. Requires consent of instructor.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 416I",
+        "title": "Mathematics Topics for Teachers: Logic & Foundations",
+        "credits": 1,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Logic and foundations. May be repeated to a maximum of 3 hours so long as no topic is repeated. May not count toward a concentration or minor in mathematics. Requires consent of instructor.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 420",
+        "title": "Abstract Algebra",
+        "credits": 3,
+        "prerequisitesRaw": "MATH 320 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Rings, fields, integral domains, homomorphisms, factor rings, rings of polynomials, prime ideals, maximal ideals, extension fields, and vector spaces.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "MATH 320",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 421",
+        "title": "Linear Algebra II",
+        "credits": 3,
+        "prerequisitesRaw": "MATH 223 Minimum Grade of C AND MATH 250 Minimum Grade of C AND MATH 321 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Advanced study of vector spaces: Cayley-Hamilton Theorem, minimal and characteristic polynomials, Eigen spaces, canonical forms, Lagrange-Sylvester Theorem, and applications.",
+        "prerequisitesAND": [
+            {
+                "id": "MATH 223",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 250",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 321",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 423",
+        "title": "Combinatorics and Graph Theory",
+        "credits": 3,
+        "prerequisitesRaw": "MATH 223",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Methods of solving problems which are discrete in nature. Counting combinatorial reasoning and modeling; generating functions; and recurrence relations. Graphs: definitions, examples, basic properties, applications, and algorithms. Some knowledge of programming is recommended.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "MATH 223",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 430",
+        "title": "A Geometric Introduction to Topology",
+        "credits": 3,
+        "prerequisitesRaw": "MATH 350 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Topological spaces and equivalence through the study of knots, links, surfaces, 3-manifolds and other selected topics.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "MATH 350",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 435",
+        "title": "Foundations for Euclidean & Non-Euclidean Geometry",
+        "credits": 3,
+        "prerequisitesRaw": "MATH 250 Minimum Grade of C AND MATH 321 Minimum Grade of C AND MATH 320 Minimum Grade of C OR MATH 350 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Points; lines; planes; space; separations; congruence; parallelism and similarity; non-Euclidean geometries; and independence of the parallel axiom. Riemannian and Bolyai-Lobachevskian geometries.",
+        "prerequisitesAND": [
+            {
+                "id": "MATH 250",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 321",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 320",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "prerequisitesOR": [
+            {
+                "id": "MATH 350",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 437",
+        "title": "Differential Geometry",
+        "credits": 3,
+        "prerequisitesRaw": "MATH 250 Minimum Grade of C AND MATH 321 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Curves and surfaces in Euclidean 3-space from the perspective of classical differential geometry. Topics include: Frenet frames, fundamental surface forms, geodesics, and the Gauss-Bonnet theorem.",
+        "prerequisitesAND": [
+            {
+                "id": "MATH 250",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 321",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 450",
+        "title": "Real Analysis I",
+        "credits": 3,
+        "prerequisitesRaw": "MATH 350 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Integration; infinite series, sequences and series of functions and their properties.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "MATH 350",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 451",
+        "title": "Introduction to Complex Analysis",
+        "credits": 3,
+        "prerequisitesRaw": "MATH 350 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Analytic functions, Cauchy-Riemann equations, harmonic functions, elements of conformal mapping, line integrals, Cauchy-Goursat theorem, Cauchy integral formula, power series, the residue theorem and applications.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "MATH 350",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 462",
+        "title": "Applied Numerical Analysis",
+        "credits": 3,
+        "prerequisitesRaw": "MATH 250 Minimum Grade of C AND MATH 305 Minimum Grade of C AND (CS 140 Minimum Grade of C OR CS 145 Minimum Grade of C OR MATH 165 Minimum Grade of C)",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Polynomial interpolation and approximations; numerical integration; differentiation; and direct and iterative methods for linear systems. Numerical solutions for ODE's and PDE's. Matlab programming required.",
+        "prerequisitesAND": [
+            {
+                "id": "MATH 250",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 305",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "prerequisitesOR": [
+            {
+                "id": "CS 140",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "CS 145",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 165",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 464",
+        "title": "Partial Differential Equations",
+        "credits": 3,
+        "prerequisitesRaw": "MATH 223 Minimum Grade of C AND MATH 250 Minimum Grade of C AND MATH 305 Minimum Grade of C AND MATH 321 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Partial differential equations, heat equation, wave equation, Laplace’s equation, Fourier series, Fourier transform, method of separations of variable.",
+        "prerequisitesAND": [
+            {
+                "id": "MATH 223",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 250",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 305",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 321",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 490A",
+        "title": "Topics in Mathematics",
+        "credits": 3,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "490a-h, 1-3 each Topics in Mathematic — Selected topics in specified area of interest. (a) Algebra, (b) Geometry and topology, (c) Analysis, (d) Mathematics education, (e) Logic and foundations, (f) Differential equations, (g) Numerical analysis, (h) Combinatorics and graph theory. May be repeated to a maximum of 6 hours so long as no topic is repeated. Prerequisite: consent of instructor.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 490B",
+        "title": "Topics in Mathematics",
+        "credits": 1,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "490a-h, 1-3 each Topics in Mathematic — Selected topics in specified area of interest. (a) Algebra, (b) Geometry and topology, (c) Analysis, (d) Mathematics education, (e) Logic and foundations, (f) Differential equations, (g) Numerical analysis, (h) Combinatorics and graph theory. May be repeated to a maximum of 6 hours so long as no topic is repeated. Prerequisite: consent of instructor.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 490C",
+        "title": "Topics in Mathematics",
+        "credits": 1,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "490a-h, 1-3 each Topics in Mathematic — Selected topics in specified area of interest. (a) Algebra, (b) Geometry and topology, (c) Analysis, (d) Mathematics education, (e) Logic and foundations, (f) Differential equations, (g) Numerical analysis, (h) Combinatorics and graph theory. May be repeated to a maximum of 6 hours so long as no topic is repeated. Prerequisite: consent of instructor.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 490D",
+        "title": "Topics in Mathematics",
+        "credits": 1,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "490a-h, 1-3 each Topics in Mathematic — Selected topics in specified area of interest. (a) Algebra, (b) Geometry and topology, (c) Analysis, (d) Mathematics education, (e) Logic and foundations, (f) Differential equations, (g) Numerical analysis, (h) Combinatorics and graph theory. May be repeated to a maximum of 6 hours so long as no topic is repeated. Prerequisite: consent of instructor.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 490E",
+        "title": "Topics in Mathematics",
+        "credits": 1,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "490a-h, 1-3 each Topics in Mathematic — Selected topics in specified area of interest. (a) Algebra, (b) Geometry and topology, (c) Analysis, (d) Mathematics education, (e) Logic and foundations, (f) Differential equations, (g) Numerical analysis, (h) Combinatorics and graph theory. May be repeated to a maximum of 6 hours so long as no topic is repeated. Prerequisite: consent of instructor.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 490F",
+        "title": "Topics in Mathematics",
+        "credits": 1,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "490a-h, 1-3 each Topics in Mathematic — Selected topics in specified area of interest. (a) Algebra, (b) Geometry and topology, (c) Analysis, (d) Mathematics education, (e) Logic and foundations, (f) Differential equations, (g) Numerical analysis, (h) Combinatorics and graph theory. May be repeated to a maximum of 6 hours so long as no topic is repeated. Prerequisite: consent of instructor.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 490G",
+        "title": "Topics in Mathematics",
+        "credits": 1,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "490a-h, 1-3 each Topics in Mathematic — Selected topics in specified area of interest. (a) Algebra, (b) Geometry and topology, (c) Analysis, (d) Mathematics education, (e) Logic and foundations, (f) Differential equations, (g) Numerical analysis, (h) Combinatorics and graph theory. May be repeated to a maximum of 6 hours so long as no topic is repeated. Prerequisite: consent of instructor.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 490H",
+        "title": "Topics in Mathematics",
+        "credits": 1,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "490a-h, 1-3 each Topics in Mathematic — Selected topics in specified area of interest. (a) Algebra, (b) Geometry and topology, (c) Analysis, (d) Mathematics education, (e) Logic and foundations, (f) Differential equations, (g) Numerical analysis, (h) Combinatorics and graph theory. May be repeated to a maximum of 6 hours so long as no topic is repeated. Prerequisite: consent of instructor.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 495A",
+        "title": "Independent Study: Algebra",
+        "credits": 1,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Research and reading in specified area of interest. Algebra. May be repeated to a maximum of 9 hours so long as no topic is repeated and not more than 3 hours are accumulated in neither a single segment nor more than 6 in one semester. Requires written consent of adviser and instructor.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 495B",
+        "title": "Independent Study: Geometry",
+        "credits": 1,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Research and reading in specified area of interest. Geometry. May be repeated to a maximum of 9 hours so long as no topic is repeated and not more than 3 hours are accumulated in neither a single segment nor more than 6 in one semester. Requires written consent of adviser and instructor.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 495C",
+        "title": "Independent Study: Analysis",
+        "credits": 1,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Research and reading in specified area of interest. Analysis. May be repeated to a maximum of 9 hours so long as no topic is repeated and not more than 3 hours are accumulated in neither a single segment nor more than 6 in one semester. Requires written consent of adviser and instructor.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 495D",
+        "title": "Independent Study: Mathematics Education",
+        "credits": 1,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Research and reading in specified area of interest. Mathematics education. May be repeated to a maximum of 9 hours so long as no topic is repeated and not more than 3 hours are accumulated in neither a single segment nor more than 6 in one semester. Requires written consent of adviser.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 495E",
+        "title": "Independent Study: Logic & Foundations",
+        "credits": 1,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Research and reading in specified area of interest. Logic & foundations. May be repeated to a max of 9 hours so long as no topic is repeated and not more than 3 hours are accumulated in neither a single segment nor more than 6 in one semester. Requires written consent of adviser and instructor.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 495F",
+        "title": "Independent Study: Topology",
+        "credits": 1,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Research and reading in specified area of interest. Topology. May be repeated to a maximum of 9 hours so long as no topic is repeated and not more than 3 hours are accumulated in neither a single segment nor more than 6 in one semester. Requires written consent of adviser and instructor.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 495G",
+        "title": "Independent Study: Numerical Analysis",
+        "credits": 1,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Research and reading in specified area of interest. Numerical analysis. May be repeated to a max of 9 hours so long as no topic is repeated and not more than 3 hours are accumulated in neither a single segment nor more than 6 in one semester. Requires written consent of adviser and instructor.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 498",
+        "title": "Senior Seminar",
+        "credits": 2,
+        "prerequisitesRaw": "MATH 150 Minimum Grade of C AND MATH 152 Minimum Grade of C AND MATH 250 Minimum Grade of C AND MATH 223 Minimum Grade of C AND MATH 321 Minimum Grade of C AND MATH 350 Minimum Grade of C AND (CS 140 Minimum Grade of C OR CS 145 Minimum Grade of C) AND (PHYS 211A Minimum Grade of C OR PHYS 151 Minimum Grade of C) AND (PHYS 212A Minimum Grade of C OR PHYS 151L Minimum Grade of C)",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Mathematical modeling. The writing and presenting of mathematical ideas. Preparation for senior project.",
+        "prerequisitesAND": [
+            {
+                "id": "MATH 150",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 152",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 250",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 223",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 321",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 350",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "CS 145",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "PHYS 151",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "prerequisitesOR": [
+            {
+                "id": "CS 140",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "PHYS 211A",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "PHYS 212A",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "PHYS 151L",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "MATH 499",
+        "title": "Senior Project",
+        "credits": 2,
+        "prerequisitesRaw": "MATH 498 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Directed study toward completing the senior assignment. Student completes a written project and gives an oral presentation.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "MATH 498",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "STAT 244",
+        "title": "Statistics",
+        "credits": 4,
+        "prerequisitesRaw": "MATH 120 Minimum Grade of C OR MATH 120E Minimum Grade of C OR MATH 120I Minimum Grade of C OR MATH 125 Minimum Grade of C OR MATH 145 Minimum Grade of C OR MATH 150 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Summarizing data, including distributions, change and growth, relationships. Basics of survey design and experimental design. Inferential statistics, including confidence intervals and hypothesis testing. Credit may not be granted for both STAT 107 and STAT 244. IAI Course M1 902.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "MATH 120",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 120E",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 120I",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 125",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 145",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 150",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "STAT 380",
+        "title": "Statistics For Applications",
+        "credits": 3,
+        "prerequisitesRaw": "MATH 152 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Descriptive statistics; basic probability rules and distributions; inferences for means; variances and proportions; design and analysis of experiments; and regression analysis.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "MATH 152",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "PHYS 111",
+        "title": "Concepts of Physics",
+        "credits": 3,
+        "prerequisitesRaw": "AD 095 Minimum Grade of C AND AD 085 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Introduction to our understanding of the universe and how it is achieved. Includes selections from: Motion, energy, heat, fluids, electricity, magnetism, sound, light, atoms. IAI Course P1 900.",
+        "prerequisitesAND": [
+            {
+                "id": "AD 095",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "AD 085",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "PHYS 112",
+        "title": "Conceptual Physics Laboratory",
+        "credits": 1,
+        "prerequisitesRaw": "PHYS 111 (concurrency allowed)",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Weekly introductory laboratory dealing with mechanics, heat, electricity, sound and light. Emphasis placed on measurements and data analysis.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "PHYS 111",
+                "Grade": "C",
+                "concurrency": true
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "PHYS 115",
+        "title": "Energy and the Environment",
+        "credits": 3,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Problems and prospects of meeting national and worldwide energy demands. Scientific background, role, and environmental impact of fossil fuel, nuclear, solar, geothermal, and other technologies. IAI Course P1 901.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "PHYS 116",
+        "title": "Music and Acoustics",
+        "credits": 3,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Vibrations; nature and propagation of sound waves; musical pitch and intervals; tone quality, analysis, and synthesis; instruments; speech; ears and hearing; psychological aspects; and other topics. IAI Course P1 901.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "PHYS 117",
+        "title": "Light and Color",
+        "credits": 3,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Nature of light; ray and wave phenomena; optical devices; the eye; color theory; lasers and holography; applications to art, photography, and other visual media. IAI Course P1 901.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "PHYS 118",
+        "title": "Astronomy",
+        "credits": 3,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Introduction to observation; seasons; light; telescopes; orbits; solar system; stellar structure, evolution and classification; galaxies and cosmology. Includes in-class activities and supplemental viewing sessions. IAI Course P1 906.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "PHYS 118L",
+        "title": "Astronomy Laboratory",
+        "credits": 1,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "An experiential laboratory course utilizing both software and real-time observation concerning astronomical objects.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "PHYS 120",
+        "title": "Frontiers in Physics: Past and Present",
+        "credits": 3,
+        "prerequisitesRaw": "MATH 125 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Introductory course designed to highlight, through examples, how progress and discoveries are made in physics. Topics selected from historical and/or contemporary physics. May include seminar.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "MATH 125",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "PHYS 131",
+        "title": "College Physics I: Mechanics and Heat",
+        "credits": 4,
+        "prerequisitesRaw": "MATH 125 OR MATH 145 OR MATH 150 OR MATH 152",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "This course is the first semester of a two semester sequence. Designed to meet pre-medical and biological science requirements. Topics include mechanics, fluids, energy and heat and gravitation.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "MATH 125",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 145",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 150",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 152",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "PHYS 131L",
+        "title": "College Physics I Laboratory: Mechanics and Heat",
+        "credits": 1,
+        "prerequisitesRaw": "MATH 125 OR MATH 145 OR MATH 150 OR MATH 152",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "This course is a laboratory for College Physics I. Topics include physical measurements, data analysis, lab reporting and error analysis.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "MATH 125",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 145",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 150",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 152",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "PHYS 132",
+        "title": "College Physics II: Electricity, Magnetism and Optics",
+        "credits": 4,
+        "prerequisitesRaw": "PHYS 131",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "This course is the second semester of a two semester sequence. Designed to meet pre-medical and biological science requirements. Topics include waves and sound, electrostatics, circuits magnetism, EM waves, optics and modern physics theory.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "PHYS 131",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "PHYS 132L",
+        "title": "College Physics II Laboratory: Electricity, Magnetism and Optics",
+        "credits": 1,
+        "prerequisitesRaw": "PHYS 131L",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "A lab consisting of experiments designed to complement PHYS 132: physical measurements, data analysis, presentation and error analysis.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "PHYS 131L",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "PHYS 140",
+        "title": "Introduction to Physics and Physical Reasoning",
+        "credits": 2,
+        "prerequisitesRaw": "MATH 150 Minimum Grade of C (concurrency allowed)",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "An introduction to physics and quantitative reasoning preparatory for PHYS 141/151. Selected physics concepts, methods of reasoning, application of mathematics to physics problem solving.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "MATH 150",
+                "Grade": "C",
+                "concurrency": true
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "PHYS 141",
+        "title": "Physics I for Engineers",
+        "credits": 3,
+        "prerequisitesRaw": "(MATH 152 Minimum Grade of C (concurrency allowed) OR MATH 250 Minimum Grade of C (concurrency allowed)) AND (ACT Math 28 OR Physics Readiness Exam Score 09 OR MATH TEST SCORE 32.5 OR PHYS 140 Minimum Grade of C)",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Introductory calculus-based course for engineering students: Motion, kinematics, dynamics, Newton's Laws, applications; work; kinetic & potential energy, momentum; rotational dynamics, angular momentum; gravity; oscillations.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "PHYS 142",
+        "title": "Physics II for Engineering",
+        "credits": 3,
+        "prerequisitesRaw": "(PHYS 141 Minimum Grade of C OR PHYS 151 Minimum Grade of C) AND MATH 152 Minimum Grade of C AND PHYS 151L Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Calculus-based course for engineering students: electric charge, electric fields, Gauss' law, electric potential; magnetic fields, Faraday's Law, inductance, Maxwell's equations integral form; electromagnetic waves.",
+        "prerequisitesAND": [
+            {
+                "id": "PHYS 152",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "prerequisitesOR": [
+            {
+                "id": "PHYS 141",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "PHYS 151",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "PHYS 151L",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "PHYS 151",
+        "title": "University Physics I",
+        "credits": 4,
+        "prerequisitesRaw": "MATH 152 Minimum Grade of C (concurrency allowed)",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Kinematics; dynamics; planar motion; work and energy; momentum; rotational motion; gravitation; and fluids. IAI Course P2 900.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "MATH 152",
+                "Grade": "C",
+                "concurrency": true
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "PHYS 151L",
+        "title": "University Physics I Laboratory",
+        "credits": 1,
+        "prerequisitesRaw": "PHYS 151 Minimum Grade of C (concurrency allowed) OR PHYS 141 Minimum Grade of C (concurrency allowed) OR PHYS 211A Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Physics measurements; data analysis and presentation, error analysis. Velocity; acceleration; force and moments; work and kinetic energy. IAI Course P2 900L.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "PHYS 151",
+                "Grade": "C",
+                "concurrency": true
+            },
+            {
+                "id": "PHYS 141",
+                "Grade": "C",
+                "concurrency": true
+            },
+            {
+                "id": "PHYS 211A",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "PHYS 152",
+        "title": "University Physics II",
+        "credits": 4,
+        "prerequisitesRaw": "MATH 152 Minimum Grade of C AND (PHYS 151 Minimum Grade of C OR PHYS 141 Minimum Grade of C)",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Bulk properties of matter; oscillations and waves; electric charge; electric fields; Gauss' law; potentials; circuits; magnetic fields; and electromagnetic waves.",
+        "prerequisitesAND": [
+            {
+                "id": "MATH 152",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "prerequisitesOR": [
+            {
+                "id": "PHYS 151",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "PHYS 141",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "PHYS 152L",
+        "title": "University Physics II Lab",
+        "credits": 1,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Physics measurements; data analysis and presentation; error analysis; thermal and bulk properties of matter; simple harmonic motion and waves; electromagnetism; simple circuits; and optics.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "PHYS 192",
+        "title": "Freshman Project in Biomedical Physics",
+        "credits": 1,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "With guidance, a freshman investigatory or independent study project in bio- or biomedical physics. Open to all students of other disciplines and to 100-level physics students.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "PHYS 193",
+        "title": "Freshman Project in Photonics and Laser Physics",
+        "credits": 1,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "With guidance, a freshman investigatory or independent study project in photonics. Open to all students of other disciplines and to 100-level physics students.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "PHYS 196",
+        "title": "Freshman Project in Astronomy",
+        "credits": 1,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "With guidance, a freshman investigatory or independent project in astronomy. Open to all students of other disciplines and to 100-level physics students.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "PHYS 197",
+        "title": "Freshman Project in Experimental Physics",
+        "credits": 1,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "With guidance, a freshman investigatory or independent study project in experimental physics. Open to all students of other disciplines and to 100-level physics students.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "PHYS 198",
+        "title": "Freshman Project in Theoretical Physics",
+        "credits": 1,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "With guidance, a freshman investigatory or independent study project in theoretical physics. Open to all students of other disciplines and to 100-level physics students.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "PHYS 201",
+        "title": "University Physics III",
+        "credits": 4,
+        "prerequisitesRaw": "(PHYS 151 Minimum Grade of C OR PHYS 211A Minimum Grade of C) AND (PHYS 152 Minimum Grade of C OR PHYS 211B Minimum Grade of C)",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Electromagnetic waves. Physical optics: interference and diffraction. Introductory special relativity; thermodynamic laws; Maxwell Boltzmann distributions; equipartition theorem; black-body radiation; and evidence for photons. Bohr atom and matter waves.",
+        "prerequisitesAND": [
+            {
+                "id": "PHYS 211A",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "prerequisitesOR": [
+            {
+                "id": "PHYS 151",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "PHYS 152",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "PHYS 211B",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "PHYS 201L",
+        "title": "University Physics III Laboratory",
+        "credits": 1,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Laboratories covering select topics from Electromagnetic waves, physical optics, introductory special relativity, thermodynamic laws, and introductory quantum physics.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CHEM 113",
+        "title": "Introduction to Chemistry",
+        "credits": 3,
+        "prerequisitesRaw": "ALEKS PPL - Math Plcmnt 30",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Preparation for University Chemistry. Mathematical techniques, problem solving, chemical terms, concepts, and laws. For students with inadequate preparation in high school chemistry. Three lecture hours and one problem session per week.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CHEM 120A",
+        "title": "General, Organic, and Biological Chemistry",
+        "credits": 3,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Not for Chemistry majors. General chemistry. Three lecture hours and one laboratory per week. Must be taken in sequence. IAI Course P1 902.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CHEM 120B",
+        "title": "General, Organic, and Biological Chemistry",
+        "credits": 3,
+        "prerequisitesRaw": "CHEM 120A",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Primarily for students planning careers in Nursing and Allied Health professions. Not for Chemistry majors. Organic and biological Chemistry. Three lecture hours and one laboratory per week. Must be taken in sequence.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "CHEM 120A",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CHEM 121A",
+        "title": "General Chemistry",
+        "credits": 4,
+        "prerequisitesRaw": "(MATH 120 Minimum Grade of C OR MATH 120E Minimum Grade of C OR MATH 120I Minimum Grade of C AND CHEM 113 Minimum Grade of C) OR MATH 125 Minimum Grade of C (concurrency allowed) OR MATH 145 Minimum Grade of C (concurrency allowed) OR MATH 150 Minimum Grade of C (concurrency allowed) OR ALEKS PPL - Math Plcmnt 61 OR Chemistry Readiness Exam Score 39 OR (Chemistry Readiness Exam Score 34 AND CRE General Math Subscore 17)",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "University-level modern chemistry for science and engineering students, atomic structure, molecular bonding, structure, stoichiometry, chemical change, equilibrium, and qualitative analysis. Four lecture hours per week. Must be taken in sequence. IAI Course P1 902, CHM 911.",
+        "prerequisitesAND": [
+            {
+                "id": "CHEM 113",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "prerequisitesOR": [
+            {
+                "id": "MATH 120",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 120E",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 120I",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 125",
+                "Grade": "C",
+                "concurrency": true
+            },
+            {
+                "id": "MATH 145",
+                "Grade": "C",
+                "concurrency": true
+            },
+            {
+                "id": "MATH 150",
+                "Grade": "C",
+                "concurrency": true
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CHEM 121B",
+        "title": "General Chemistry",
+        "credits": 4,
+        "prerequisitesRaw": "CHEM 121A Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "University-level modern chemistry for science and engineering students. Atomic structure, molecular bonding, structure, stoichiometry, chemical change, equilibrium, and qualitative analysis. Four lecture hours per week. Must be taken in sequence. IAI Course CHM 912.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "CHEM 121A",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CHEM 124A",
+        "title": "General, Organic, and Biological Chemistry Laboratory",
+        "credits": 1,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Safety practices and basic techniques. Topics complement CHEM 120. Not for Chemistry majors. General and organic Chemistry. Three laboratory hours per week. Must be taken in sequence. This course replaces CHEM 120A-Lab portion. IAI Course P1 902L.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CHEM 124B",
+        "title": "General, Organic, and Biological Chemistry Laboratory",
+        "credits": 1,
+        "prerequisitesRaw": "CHEM 124A",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Safety practices and basic techniques. Topics complement CHEM 120. Not for Chemistry majors. (A)General and Organic Chemistry. Three laboratory hours per week. Must be taken in sequence. Replaces CHEM 120B-Lab portion.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "CHEM 124A",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CHEM 125A",
+        "title": "General Chemistry Lab",
+        "credits": 1,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Laboratory safety practices and techniques; qualitative and quantitative analysis; chemical change and equilibria. One three-hour laboratory per week. IAI Course P1 902L, CHM 911.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CHEM 125B",
+        "title": "General Chemistry Laboratory",
+        "credits": 1,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Laboratory safety practices, techniques, qualitative and quantitative analysis, chemical change and equilibria. One - three hour laboratory per week. IAI Course CHM 912.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CHEM 131",
+        "title": "Engineering Chemistry",
+        "credits": 4,
+        "prerequisitesRaw": "(MATH 120 Minimum Grade of C OR MATH 120E Minimum Grade of C OR MATH 120I Minimum Grade of C AND CHEM 113 Minimum Grade of C) OR MATH 125 Minimum Grade of C (concurrency allowed) OR MATH 145 Minimum Grade of C (concurrency allowed) OR MATH 150 Minimum Grade of C (concurrency allowed) OR ALEKS PPL - Math Plcmnt 61 OR Chemistry Readiness Exam Score 39 OR (Chemistry Readiness Exam Score 34 AND CRE General Math Subscore 17)",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Fundamental principles of chemistry especially for students planning careers in engineering fields. Concepts represent the basic principles of chemistry with emphasis on engineering applications.",
+        "prerequisitesAND": [
+            {
+                "id": "CHEM 113",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "prerequisitesOR": [
+            {
+                "id": "MATH 120",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 120E",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 120I",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 125",
+                "Grade": "C",
+                "concurrency": true
+            },
+            {
+                "id": "MATH 145",
+                "Grade": "C",
+                "concurrency": true
+            },
+            {
+                "id": "MATH 150",
+                "Grade": "C",
+                "concurrency": true
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "CHEM 135",
+        "title": "Engineering Chemistry Lab",
+        "credits": 1,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Chemical laboratory experiments with an emphasis on engineering applications. Laboratory safety practices, techniques, qualitative and quantitative analysis, chemical change and equilibria. One three-hour laboratory per week.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "BIOL 111",
+        "title": "Contemporary Biology",
+        "credits": 3,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Contributions of biology to understanding ourselves and our world. Development, nature and human implications of cell theory, heredity, the modern synthetic theory of evolution, population dynamics, ecology and environmental problems. Not for biological sciences major credit. IAI Course L1 900.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "BIOL 140",
+        "title": "Human Biology",
+        "credits": 3,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Introduction and application of basic human biology concepts, including cell theory, genetics, systems biology, and evolution. Not for biological sciences major credit. Three lectures per week. IAI Course L1 904.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "BIOL 145",
+        "title": "Fundamentals of Biology",
+        "credits": 4,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Introduction to basic biology concepts, including cell theory, genetics, systems biology, and evolution. Lab required. Not for biological sciences major credit.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "BIOL 150",
+        "title": "Introduction to Biological Sciences I",
+        "credits": 4,
+        "prerequisitesRaw": "CHEM 121A Minimum Grade of C (concurrency allowed)",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "First of a two-course sequence, introduction to biochemistry, molecular genetics, cell structure and function, and evolution. Lab required. IAI Course BIO LI 900L, BIOL 910.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "CHEM 121A",
+                "Grade": "C",
+                "concurrency": true
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "BIOL 151",
+        "title": "Introduction to Biological Sciences II",
+        "credits": 4,
+        "prerequisitesRaw": "BIOL 150 Minimum Grade of C AND CHEM 121A Minimum Grade of C AND CHEM 125A Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Second of a two-course sequence, introduction to major taxonomic groups with emphasis on evolutionary relationships and ecological principles. Lab required. IAI Course BIO 910.",
+        "prerequisitesAND": [
+            {
+                "id": "BIOL 150",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "CHEM 121A",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "CHEM 125A",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 145",
+        "title": "Introduction to Computer Programming",
+        "credits": 3,
+        "prerequisitesRaw": "MATH 120 Minimum Grade of C OR MATH 120E Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Specification, design, implementation, testing, debugging, applications in numerical analysis and computer simulations. Control structures, functions, arrays and other data types. Programming in C, Python, and Matlab.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "MATH 120",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 120E",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 198",
+        "title": "Electrical and Computer Engineering Work Experience I",
+        "credits": 0,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Supervised work experience with agency, firm, or organization which uses engineers. Intended for students who have part-time cooperative experience jobs. Limited to students enrolled in more than 6 credit hours. Student must be a declared major in electrical and computer engineering.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 199",
+        "title": "Electrical and Computer Engineering Cooperative Education I",
+        "credits": 0,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Supervised work experience with agency, firm, or organization which uses engineers. First work period of five year academic/work experience program. Requires consent of advisor.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 210",
+        "title": "Circuit Analysis I",
+        "credits": 0,
+        "prerequisitesRaw": "MATH 150 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "DC and AC steady-state circuit analysis. Loop and nodal analysis; network theorems; phasors; complex power; and single-phase and three-phase circuits. IAI Course EGR 931.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "MATH 150",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 211",
+        "title": "Circuit Analysis II",
+        "credits": 0,
+        "prerequisitesRaw": "ECE 210 Minimum Grade of C AND MATH 305 Minimum Grade of C (concurrency allowed) AND MATH 150 Minimum Grade of C AND MATH 152 Minimum Grade of C AND MATH 250 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Time-domain transient analysis; complex frequency; frequency response; two-port networks; Laplace transform techniques; and impulse response and convolution. Three hours lecture and one laboratory session per week.",
+        "prerequisitesAND": [
+            {
+                "id": "ECE 210",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 305",
+                "Grade": "C",
+                "concurrency": true
+            },
+            {
+                "id": "MATH 150",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 152",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 250",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 282",
+        "title": "Digital Systems Design",
+        "credits": 0,
+        "prerequisitesRaw": "CS 140 Minimum Grade of C OR CS 145 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Concepts and design of computer circuitry; binary number systems; study of microprocessors and assembly language programming. Introduction to Verilog HDL. Laboratory exercises involve circuit implementation and programming. Three lecture hours and one laboratory session per week. Student must be a declared major in an engineering discipline. IAI Course EGR 932L.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "CS 140",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "CS 145",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 298",
+        "title": "Electrical and Computer Engineering Work Experience II",
+        "credits": 0,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Supervised work experience with agency, firm, or organization which uses engineers. Intended for students who have part-time cooperative experience jobs. Limited to students enrolled in more than 6 credit hours.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 299",
+        "title": "ECE Cooperative Education II",
+        "credits": 0,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Supervised work experience with agency, firm, or organization which uses engineers. Second work period of five year academic/work experience program. Requires consent of advisor.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 326",
+        "title": "Electronic Circuits I",
+        "credits": 0,
+        "prerequisitesRaw": "ECE 211 Minimum Grade of C AND MATH 305 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Introduction to semiconductors; diode, transistor and FET; small and large signal analysis; and logic gate families and design. Three hours lecture and one laboratory session per week. Student must be a declared major in an engineering discipline.",
+        "prerequisitesAND": [
+            {
+                "id": "ECE 211",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 305",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 340",
+        "title": "Engineering Electromagnetics",
+        "credits": 0,
+        "prerequisitesRaw": "(PHYS 152 Minimum Grade of C OR PHYS 211B Minimum Grade of C) AND (PHYS 152L Minimum Grade of C OR PHYS 212B Minimum Grade of C) AND ECE 211 Minimum Grade of C AND MATH 305 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Introduction to engineering electromagnetics. Includes vector analysis, time-harmonic fields, electromagnetic wave propagation, transmission lines, waveguides, antennas.",
+        "prerequisitesAND": [
+            {
+                "id": "PHYS 211B",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "PHYS 212B",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "ECE 211",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 305",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "prerequisitesOR": [
+            {
+                "id": "PHYS 152",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "PHYS 152L",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 341",
+        "title": "Princ w/Electro Mec Enrg Conv",
+        "credits": 0,
+        "prerequisitesRaw": "ECE 340 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Basic electromagnetic concepts; energy-based torque and force and calculations; transformers; induction machines; synchronous machines; and DC machines. Three hours lecture and one laboratory session per week.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "ECE 340",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 351",
+        "title": "Signals and Systems",
+        "credits": 3,
+        "prerequisitesRaw": "ECE 211 Minimum Grade of C AND MATH 305 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Basics of continuous and discrete signals and systems. Convolution; Fourier analysis; filtering; modulation and sampling; and Z-transforms. Student must be a declared major in an engineering discipline.",
+        "prerequisitesAND": [
+            {
+                "id": "ECE 211",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "MATH 305",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 352",
+        "title": "Engineering Probability and Statistics",
+        "credits": 3,
+        "prerequisitesRaw": "ECE 351 Minimum Grade of C (concurrency allowed)",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Probability; random variables and probability distributions; statistics; Monte-Carlo simulations; estimation theory; decision theory; hypothesis testing; random processes; and linear system response to random processes.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "ECE 351",
+                "Grade": "C",
+                "concurrency": true
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 365",
+        "title": "Control Systems",
+        "credits": 3,
+        "prerequisitesRaw": "ECE 351 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Mechanical and electrical systems modeling, signal flow graphs, state variable approach, root-locus approach, Bode ploys/Nyquist plots, frequency domain design and Proportional-Integral-Derivative (PID) controller turning methods.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "ECE 351",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 375",
+        "title": "Introduction to Communications",
+        "credits": 3,
+        "prerequisitesRaw": "ECE 351 Minimum Grade of C AND ECE 352 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Time- and frequency-domain analysis; and bandwidth, distortion, and noise. Baseband pulse transmission; sampling; pulse shaping. Digital and analog modulation techniques. Analysis of bit-error probability.",
+        "prerequisitesAND": [
+            {
+                "id": "ECE 351",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "ECE 352",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 381",
+        "title": "Microcontrollers",
+        "credits": 3,
+        "prerequisitesRaw": "ECE 282 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Interfacing and programming microcontrollers to measure/control various hardware and signals, GPIO, LCD, ISRs, encoders, UART/RS-232, I2C, SPI, ADC/DAC. Three hours lecture and one laboratory session per week.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "ECE 282",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 398",
+        "title": "Electrical and Computer Engineering Work Experience III",
+        "credits": 0,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Supervised work experience with agency, firm, or organization which uses engineers. Intended for students who have part-time cooperative experience jobs. Limited to students enrolled in more than 6 credit hours.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 399",
+        "title": "ECE Cooperative Education III",
+        "credits": 0,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Supervised work experience with agency, firm, or organization which uses engineers. Third work period of five year academic/work experience program. Requires consent of advisor.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 404",
+        "title": "Electrical and Computer Engineering Design",
+        "credits": 3,
+        "prerequisitesRaw": "ECE 282 Minimum Grade of C AND ECE 351 Minimum Grade of C AND (ECE 365 Minimum Grade of C OR ECE 375 Minimum Grade of C OR ECE 381 Minimum Grade of C)",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Design overview, methodologies, considerations, constraints, scheduling, and management. Focus on both oral and written communication. Students work in teams while rotating leadership responsibilities.",
+        "prerequisitesAND": [
+            {
+                "id": "ECE 282",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "ECE 351",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "prerequisitesOR": [
+            {
+                "id": "ECE 365",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "ECE 375",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "ECE 381",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 405",
+        "title": "Electrical and Computer Engineering Design Laboratory",
+        "credits": 3,
+        "prerequisitesRaw": "ECE 404 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Realization of a term-based senior project, including construction, computer simulation, debug, and test as required by the project to obtain a functional prototype.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "ECE 404",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 426",
+        "title": "High Frequency Design",
+        "credits": 3,
+        "prerequisitesRaw": "ECE 326 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "High frequency circuit design with elements of RF engineering. Amplifiers, oscillators, modulators, impedance matching, switching, signal integrity, and tuning.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "ECE 326",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 427",
+        "title": "Knowledge-Based Systems",
+        "credits": 3,
+        "prerequisitesRaw": "CS 140 Minimum Grade of C OR CS 145 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Engineering-oriented perspective on artificial intelligence (AI) technology. General AI concepts and specifically knowledge-based intelligent systems and machine learning applied to engineering problem-solving.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "CS 140",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "CS 145",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 428",
+        "title": "Analog Filter Design",
+        "credits": 3,
+        "prerequisitesRaw": "ECE 351 Minimum Grade of C AND ECE 326 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Active and passive filter synthesis. Standard low-pass approximations: Butterworth, Chebyshev, Inverse Chebyshev, Cauer, Bessel and frequency transformations. Active and passive circuit implementations.",
+        "prerequisitesAND": [
+            {
+                "id": "ECE 351",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "ECE 326",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 429",
+        "title": "Bioinstrumentation",
+        "credits": 3,
+        "prerequisitesRaw": "ECE 327 with a C or better; or graduate standing in Engineering.",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Design and use of biosignal sensors, bioamplifiers, and filters for measuring physiological data; emphasizes origins and characteristics of nerve and heart signals; includes cell analysis and dialysis machine design.",
+        "prerequisitesAND": [
+            {
+                "id": "ECE 327",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 433",
+        "title": "Fuzzy Logic and Applications",
+        "credits": 3,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Fundamentals of fuzzy sets, basic operations, fuzzy arithmetic, and fuzzy systems. Examples of applications in various fields of engineering and science.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 436",
+        "title": "Digital Signal Processing",
+        "credits": 3,
+        "prerequisitesRaw": "ECE 351 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Discrete-time signals and systems; sampling; z-transforms; discrete Fourier transform; difference equations; design and implementation of digital filters; and DSP development systems.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "ECE 351",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 437",
+        "title": "Medical Imaging Systems",
+        "credits": 3,
+        "prerequisitesRaw": "ECE 351 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Basic signals and systems, imaging principles, and image quality measures for X-ray radiography, X-ray computed tomography, ultrasound, and magnetic resonance imaging.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "ECE 351",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 438",
+        "title": "Image Analysis and Computer Vision",
+        "credits": 3,
+        "prerequisitesRaw": "ECE 351 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Image formation, geometrical and topological properties of binary images; image filtering; boundary detection; image segmentation; and pattern recognition. Two hours lecture and one laboratory session per week.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "ECE 351",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 439",
+        "title": "Digital Image Processing",
+        "credits": 3,
+        "prerequisitesRaw": "ECE 351 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Fundamentals of human perception; sampling and quantization; image transforms; enhancement; and restoration and coding. Two hours lecture and one laboratory session per week.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "ECE 351",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 441",
+        "title": "Finite Element Analysis and Design of Electrical Machines",
+        "credits": 3,
+        "prerequisitesRaw": "ECE 341 or equivalent courses with C or better or admission to graduate ENGE program.",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Practical design of electrical machines based on finite element analysis.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "ECE 341",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 444",
+        "title": "Power Electronics",
+        "credits": 3,
+        "prerequisitesRaw": "ECE 326 with C or better or admission to graduate Engineering Program.",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Basics of DC/DC and DC/AC conversion, inductors, transformers, switching characteristics of semiconductor devices, elements of electromagnetic compatibility.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "ECE 326",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 445",
+        "title": "Power Distribution System",
+        "credits": 3,
+        "prerequisitesRaw": "ECE 341 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Distribution system planning; load characteristics; application of distribution transformers; design of distribution system; voltage-drop and power-loss calculations; voltage regulation; and protection and reliability.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "ECE 341",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 446",
+        "title": "Power System Analysis",
+        "credits": 3,
+        "prerequisitesRaw": "ECE 341 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Synchronous machines; power transformers; transmission lines; system modeling; load-flow study; economic operation of power systems; symmetrical components; symmetrical and unsymmetrical faults; and power system stability.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "ECE 341",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 447",
+        "title": "Radar Systems",
+        "credits": 3,
+        "prerequisitesRaw": "ECE 340 Minimum Grade of C AND ECE 351 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Introduction to radar systems, including antenna fundamentals, radar equation, radar signals and systems, CW radar, FM-CW Radar, pulse radar, and tracking radar.",
+        "prerequisitesAND": [
+            {
+                "id": "ECE 340",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "ECE 351",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 455",
+        "title": "System Modeling & Optimization",
+        "credits": 3,
+        "prerequisitesRaw": "ECE 351 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Mathematical modeling of engineering systems; dynamic response of electrical and mechanical systems; and optimization models in electrical engineering.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "ECE 351",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 465",
+        "title": "Control Systems Design",
+        "credits": 3,
+        "prerequisitesRaw": "ECE 365 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Root-locus analysis; frequency-response analysis; design and compensation technique; describing-function analysis of nonlinear control systems; and analysis and design by state-space methods.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "ECE 365",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 466",
+        "title": "Digital Control",
+        "credits": 3,
+        "prerequisitesRaw": "ME 450 Minimum Grade of C OR ECE 365 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Topics include finite difference equations; Z-transforms and state variable representation; analysis and synthesis of linear sampled-data control systems using classical and modern control theory. Same as ME 466.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "ME 450",
+                "Grade": "C",
+                "concurrency": false
+            },
+            {
+                "id": "ECE 365",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 467",
+        "title": "Robotics-Dynamics and Control",
+        "credits": 3,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "(Same as ME 454 and MRE 454) Robotics; robot kinematics and inverse kinematics; trajectory planning; differential motion and virtual work principle; and dynamics and control.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 475",
+        "title": "Communication Systems",
+        "credits": 3,
+        "prerequisitesRaw": "ECE 375 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Digital transmission through band-limited channels; optimum receiver principles; symbol synchronization; channel capacity and coding; Bandpass digital modulation; and case studies of communication systems.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "ECE 375",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 476",
+        "title": "Electronic Circuits II",
+        "credits": 3,
+        "prerequisitesRaw": "ECE 326 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Small signal analysis, transistor amplifier design, frequency response, feedback system analysis, output stage design, signal generation and waveform shaping circuits. Three hour lecture and one hour laboratory session per week.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "ECE 326",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 477",
+        "title": "Network Engineering",
+        "credits": 3,
+        "prerequisitesRaw": "ECE 282 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Principles and practices of network engineering with particular emphasis on the physical, data-link, and network layers as applied to telecommunication and computing systems.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "ECE 282",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 482",
+        "title": "Microprocessor System",
+        "credits": 0,
+        "prerequisitesRaw": "ECE 282 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Design of microprocessor systems using VLSI building blocks. Several microprocessors and peripheral ICS studied laboratory experiments with microprocessor systems using logic analyzers. Three hours lecture and one laboratory session per week.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "ECE 282",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 483",
+        "title": "Advanced Digital Systems Engineering",
+        "credits": 0,
+        "prerequisitesRaw": "ECE 282 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Design of digital systems using a hardware description language, and logic synthesis tools. Three hours lecture and one laboratory session per week.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "ECE 282",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 484",
+        "title": "Digital VLSI Design",
+        "credits": 3,
+        "prerequisitesRaw": "ECE 326 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Discussion of CMOS circuits, MOS transistor theory, CMOS processing technology, circuit characterization, and CMOS Circuit and Logic Design.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "ECE 326",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 485",
+        "title": "Embedded Power Electronics Controllers",
+        "credits": 3,
+        "prerequisitesRaw": "ECE 282 Minimum Grade of C",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Practical approach to programming dedicated microprocessor systems, communication links, sensor signal conditioning, gate driver, inner and outer control loops, power startup, and user interface.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [
+            {
+                "id": "ECE 282",
+                "Grade": "C",
+                "concurrency": false
+            }
+        ],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 491",
+        "title": "Independent Study",
+        "credits": 1,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Individual investigation of a topic in electrical engineering to be agreed upon with the instructor. May be repeated to a maximum of 6 hours provided no topic is repeated. Requires consent of instructor.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    },
+    {
+        "id": "ECE 492",
+        "title": "Topics in Electrical and Computer Engineering",
+        "credits": 2,
+        "prerequisitesRaw": "",
+        "prerequisitesTaken": [],
+        "isReadyToTake": false,
+        "taken": false,
+        "description": "Selected topics of special interest. Course schedule will include name of topic. May be repeated to a maximum of 6 hours so long as no topic is repeated. Requires consent of instructor.",
+        "prerequisitesAND": [],
+        "prerequisitesOR": [],
+        "number": 1,
+        "semester": ""
+    }
+]
