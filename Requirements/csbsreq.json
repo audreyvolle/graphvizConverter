@@ -1,0 +1,11 @@
+{
+  "degree_requirements": [
+    "CS 111", "CS 140", "CS 150", "CS 234", "CS 286", "CS 314", "CS 325", "CS 330", "CS 340", "CS 360", "CS 425", "CS 447", "CS 499",
+    "MATH 150", "MATH 152", "MATH 223", "MATH 224",
+    "STAT 244", "STAT 380",
+    "MATH 250", "MATH 321", "MATH 423",
+    "PHYS 141/151L & 142/152L", "CHEM 121A/125A & 121B/125B", "CHEM 131/135 & 121B/125B",
+    "BIOL 150", "CHEM 121A/125A", "CHEM 131/135", "PHYS 141/151L", "PHYS 201/201L",
+    "CS 321", "CS 382", "CS 423", "CS 434", "CS 438", "CS 454", "CS 456", "CS 482", "CS 490", "CS 495", "MATH 465"
+  ]
+}
