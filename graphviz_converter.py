@@ -40,19 +40,19 @@ for course in required_courses_data:
 
     # Add the course as a node if not already added
     if course_title not in unique_titles:
-        dot_script += f'  "{course_id}" [label="{course_id}\\n{course_title}"];\n'
+        dot_script += f'  "{course_id}" [label="{course_id}"];\n'
         unique_titles[course_title] = course_id
 
     # Add edges for prerequisites from "prerequisitesAND"
     for prereq in prerequisites_and:
         prereq_id = prereq["id"]
-        dot_script += f'  "{prereq_id}" [label="{prereq_id}\\n{prereq.get("Grade", "")}", shape=box];\n'
+        dot_script += f'  "{prereq_id}" [label="{prereq_id}\\n{prereq.get("Grade", "")}"];\n'
         dot_script += f'  "{prereq_id}" -> "{course_id}";\n'
 
     # Add edges for prerequisites from "prerequisitesOR"
     for prereq in prerequisites_or:
         prereq_id = prereq["id"]
-        dot_script += f'  "{prereq_id}" [label="{prereq_id}\\n{prereq.get("Grade", "")}", shape=box];\n'
+        dot_script += f'  "{prereq_id}" [label="{prereq_id}\\n{prereq.get("Grade", "")}"];\n'
         dot_script += f'  "{prereq_id}" -> "{course_id}" [style=dotted];\n'
 
 # Close the DOT script
