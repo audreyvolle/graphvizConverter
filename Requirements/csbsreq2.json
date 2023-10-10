@@ -1,0 +1,105 @@
+{
+  "requirement":[
+    "CS 111",
+    "CS 140",
+    "CS 150",
+    "CS 234",
+    "CS 286",
+    "CS 314",
+    "CS 325",
+    "CS 330",
+    "CS 340",
+    "CS 360",
+    "CS 425",
+    "CS 447",
+    "CS 499",
+    "MATH 150",
+    "MATH 152",
+    "STAT 244",
+    "CHEM 121A",
+    "CHEM 125A",
+    "CHEM 121B",
+    "CHEM 125B",
+    "BIOL 150"
+  ],
+  "orRequirement":{
+    "MATH200":[
+      "MATH 223",
+      "MATH 224"
+    ],
+    "STAT":[
+      "STAT 244",
+      "STAT 380"
+    ]
+  },
+  "Lab":{
+    "course":{
+      "PHYS":[
+        "PHYS 141",
+        "PHYS 151L",
+        "PHYS 142",
+        "PHYS 152L"
+      ],
+      "CHEM1":[
+        "CHEM 121A",
+        "CHEM 125A",
+        "CHEM 121B",
+        "CHEM 125B"
+      ],
+      "CHEM2":[
+        "CHEM 131",
+        "CHEM 135",
+        "CHEM 121B",
+        "CHEM 125B"
+      ]
+    },
+    "additional":{
+      "BIOL":[
+        "BIOL 150"
+      ],
+      "CHEM1":[
+        "CHEM 121A",
+        "CHEM 125A"
+      ],
+      "CHEM2":[
+        "CHEM 131",
+        "CHEM 135"
+      ],
+      "PHYS":[
+        "PHYS 141",
+        "PHYS 151L"
+      ],
+      "PHYS2":[
+        "PHYS 201",
+        "PHYS 201L"
+      ]
+    }
+  },
+  "MathElectives":{
+    "number":2,
+    "courses":[
+      "MATH 250",
+      "MATH 321",
+      "MATH 423"
+    ]
+  },
+  "electives":{
+    "number":5,
+    "courses":[
+      "CS 321",
+      "CS 382",
+      "CS 423",
+      "CS 434",
+      "CS 438",
+      "CS 454",
+      "CS 456",
+      "CS 482",
+      "CS 490",
+      "CS 495",
+      "ECE 381",
+      "ECE 482",
+      "ECE 483",
+      "MATH 465"
+    ]
+  }
+}
